@@ -1,0 +1,20 @@
+{
+  "name": "zoomclone",
+  "version": "1.0.0",
+  "description": "This is a zoom clone and it will have all the similarities like zoom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ashish Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "peer": "^0.5.3",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.0"
+  }
+}
